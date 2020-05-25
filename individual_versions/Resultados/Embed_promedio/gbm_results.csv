@@ -1,21 +1,21 @@
 loss,params,score,time
--0.49492064118385315,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.3, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 256, 'units2': 512}",nan,946.3058943
--0.4938095211982727,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.3, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 64, 'units2': 512}",nan,596.2116126
--0.48698413372039795,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.5, 'dropout2': 0.3, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 256, 'units2': 64}",nan,1023.2877823999997
--0.4942857027053833,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.5, 'dropout2': 0.3, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 64, 'units2': 64}",nan,198.28469259999974
--0.4911110997200012,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.3, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 128, 'units2': 128}",nan,240.07136149999997
--0.4952380955219269,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.3, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 512, 'units2': 256}",nan,1042.1204523000001
--0.4985714256763458,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'dropout2': 0.3, 'nb_epochs': 100, 'optimizer': 'adadelta', 'units1': 512, 'units2': 512}",nan,3074.5271111
--0.4866666793823242,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.2, 'dropout2': 0.2, 'nb_epochs': 100, 'optimizer': 'adadelta', 'units1': 256, 'units2': 512}",nan,2979.1368434000005
--0.49761903285980225,"{'activation': 'relu', 'batch_size': 28, 'dropout1': 0.3, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 64, 'units2': 512}",nan,1832.3683419000008
--0.4969841241836548,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.3, 'dropout2': 0.2, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 64, 'units2': 128}",nan,355.80300389999866
--0.502063512802124,"{'activation': 'relu', 'batch_size': 28, 'dropout1': 0.2, 'dropout2': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 64, 'units2': 512}",nan,1841.8912946
--0.5026984214782715,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 64, 'units2': 256}",nan,226.2653377000006
--0.4987301528453827,"{'activation': 'relu', 'batch_size': 28, 'dropout1': 0.3, 'dropout2': 0.5, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 128, 'units2': 64}",nan,388.2660515999996
--0.49412697553634644,"{'activation': 'relu', 'batch_size': 28, 'dropout1': 0.3, 'dropout2': 0.2, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 64, 'units2': 128}",nan,706.9496616999986
--0.4973015785217285,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'dropout2': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 64, 'units2': 512}",nan,599.8126348000005
--0.4906349182128906,"{'activation': 'relu', 'batch_size': 28, 'dropout1': 0.3, 'dropout2': 0.2, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 128, 'units2': 512}",nan,2142.0852361999987
--0.5003174543380737,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.5, 'dropout2': 0.2, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 256, 'units2': 64}",nan,1028.3099825999998
--0.48253968358039856,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.3, 'dropout2': 0.5, 'nb_epochs': 100, 'optimizer': 'adadelta', 'units1': 512, 'units2': 128}",nan,2754.9171578999994
--0.5006349086761475,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.5, 'dropout2': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 512, 'units2': 64}",nan,781.5293571999973
--0.4977777898311615,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.3, 'dropout2': 0.5, 'nb_epochs': 100, 'optimizer': 'adam', 'units1': 512, 'units2': 128}",nan,1719.9781126000016
+-0.4920634925365448,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 128, 'units2': 128}",nan,153.1533897
+-0.5046031475067139,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 64, 'units2': 10}",nan,62.54331590000001
+-0.49190476536750793,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 512, 'units2': 10}",nan,465.26643529999996
+-0.5061904788017273,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 10, 'units2': 512}",nan,391.34792889999994
+-0.4928571283817291,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 128, 'units2': 128}",nan,123.89678029999982
+-0.49619048833847046,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 256, 'units2': 128}",nan,257.52092879999987
+-0.4952380955219269,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 256, 'units2': 256}",nan,558.5832352
+-0.49047619104385376,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 64, 'units2': 256}",nan,239.04315170000018
+-0.49539682269096375,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 512, 'units2': 10}",nan,536.2014592
+-0.5007936358451843,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 512, 'units2': 64}",nan,545.7403784999997
+-0.4957142770290375,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 128, 'units2': 512}",nan,692.0031978000002
+-0.4920634925365448,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.1, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 10, 'units2': 128}",nan,66.26047430000017
+-0.5073015689849854,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 64, 'units2': 512}",nan,363.16455289999976
+-0.49444442987442017,"{'activation': 'relu', 'batch_size': 256, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 512, 'units2': 64}",nan,547.7672573
+-0.506507933139801,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.1, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 10, 'units2': 256}",nan,197.95745129999978
+-0.49841269850730896,"{'activation': 'relu', 'batch_size': 128, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 64, 'units2': 256}",nan,253.0858156000004
+-0.4920634925365448,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 128, 'units2': 10}",nan,83.3663104999996
+-0.4920634925365448,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 256, 'units2': 64}",nan,202.19789189999938
+-0.49968254566192627,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 256, 'units2': 10}",nan,176.57007770000018
+-0.506507933139801,"{'activation': 'relu', 'batch_size': 512, 'dropout1': 0.3, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 256, 'units2': 64}",nan,188.23989710000023
