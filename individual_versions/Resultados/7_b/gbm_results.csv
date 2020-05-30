@@ -1,1 +1,3 @@
 loss,params,time
+-0.43478260869565216,"{'activation': 'relu', 'batch_size': 64, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 256, 'units2': 32}",240.96207249999998
+-0.4505928853754941,"{'activation': 'softmax', 'batch_size': 256, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 16, 'units2': 8}",78.42447379999999
