@@ -1,0 +1,51 @@
+---
+title: "R Notebook"
+---
+
+```{r}
+#referencias
+#https://datascienceplus.com/dow-jones-stock-market-index-1-4-log-returns-exploratory-analysis/
+
+
+library(forecast)
+
+#library(TSA)
+
+library(tidyquant)
+library(tidyverse)
+```
+
+```{r}
+
+getSymbols("DJI", from = '2008-01-01',
+           to = "2014-12-31",warnings = FALSE,
+           auto.assign = TRUE)
+
+plot(DJI$DJI.Close)
+
+DJI <- DJI[!is.na(DJI$DJI.Close),]
+
+DJI_train <-DJI$DJI.Close
+```
+
+
+
+
+
+```{r}
+fit <- auto.arima(DJI_train)
+checkresiduals(fit)
+```
+
+ver https://otexts.com/fpp2/forecasting.html para agregar modelo NLP
+
+```{r}
+fcast <- forecast(fit)
+autoplot(fcast) + ylab("Electricity demand (GW)")
+```
+
+```{r}
+
+```
+
+
