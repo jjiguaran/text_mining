@@ -1,0 +1,6 @@
+[
+    {
+        "name": "money",
+        "pattern": "(?i)(\\bdollars\\b|\\beuros\\b)"
+    }
+]
