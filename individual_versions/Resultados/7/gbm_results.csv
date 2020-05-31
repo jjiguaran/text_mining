@@ -1,3 +1,2 @@
 loss,params,time
--0.4901185770750988,"{'activation': 'softmax', 'batch_size': 512, 'dropout1': 0.3, 'dropout2': 0.2, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 32, 'units2': 256, 'units3': 32}",101.01375379999999
--0.4901185770750988,"{'activation': 'softmax', 'batch_size': 256, 'dropout1': 0.4, 'dropout2': 0.4, 'nb_epochs': 50, 'optimizer': 'adadelta', 'units1': 512, 'units2': 16, 'units3': 8}",370.1786396
+-0.4268774703557312,"{'activation': 'softmax', 'batch_size': 64, 'dropout1': 0.2, 'nb_epochs': 50, 'optimizer': 'adam', 'units1': 256, 'units2': 32}",436.62136300000003
